@@ -1,0 +1,18 @@
+MÔ TẢ BẢN PHÁC THẢO WIREFRAME TRANG WEB (LANDING PAGE)
+
+Dự án: Trang đích Cửa hàng trực tuyến (E-commerce Landing Page)
+
+1. Tổng quan thiết kế:
+Bản phác thảo (wireframe) thể hiện bố cục của trang đích (Landing Page) ở hai chế độ xem đáp ứng (Responsive Views): Chế độ xem Máy tính (Desktop View) và Chế độ xem Di động (Mobile View). Bản thiết kế tuân thủ nguyên tắc wireframe tiêu chuẩn: chỉ sử dụng đường nét đen trắng cơ bản, không dùng màu sắc hay kiểu chữ phức tạp để tập trung hoàn toàn vào cấu trúc và phân cấp nội dung.
+
+2. Chế độ xem Máy tính (Desktop View - Màn hình lớn):
+- Thanh điều hướng (Navigation Bar): Nằm ngang ở trên cùng, hiển thị đầy đủ tên thương hiệu (SHOP), các liên kết điều hướng (Home, Products, About, Contact) và biểu tượng giỏ hàng.
+- Khu vực điểm nhấn (Hero Image / Banner): Chiếm chiều ngang lớn ngay dưới thanh điều hướng để thu hút sự chú ý, đi kèm nút kêu gọi hành động (CTA) "Shop Now" đặt ở vị trí trung tâm.
+- Sản phẩm nổi bật (Featured Products): Được bố trí theo dạng lưới (grid) 3 cột ngang, giúp tận dụng tối đa không gian màn hình rộng. Mỗi thẻ sản phẩm bao gồm khung hình ảnh đại diện, tên sản phẩm và giá tiền.
+- Chân trang (Footer): Hiển thị các liên kết phụ và thông tin bản quyền ở cuối trang.
+
+3. Chế độ xem Di động (Mobile View - Màn hình nhỏ):
+- Thanh điều hướng thu gọn: Để tiết kiệm diện tích ngang, các liên kết menu được ẩn vào trong biểu tượng "Menu 3 sọc" (Hamburger Menu) ở góc phải trên cùng.
+- Khu vực điểm nhấn (Hero Image): Thu gọn tỷ lệ cho vừa màn hình dọc của điện thoại nhưng vẫn giữ rõ nút "Shop Now".
+- Sản phẩm nổi bật (Featured Products): Chuyển từ bố cục 3 cột sang lưới 2 cột xếp dọc (cuộn dọc) để người dùng dễ dàng lướt xem và thao tác chạm trên màn hình cảm ứng mà không bị quá nhỏ.
+- Chân trang (Footer): Căn chỉnh gọn gàng ở cuối trang theo chiều dọc.

@@ -1,0 +1,18 @@
+WEBSITE WIREFRAME DESCRIPTION (LANDING PAGE)
+
+Project: E-commerce Landing Page Wireframe
+
+1. Design Overview:
+This wireframe illustrates the layout of my website's landing page across two unique responsive views: a Desktop View (larger screen) and a Mobile View. In accordance with wireframe best practices, the sketch strictly uses black-and-white lines and placeholder boxes without colors or stylized fonts to focus purely on structure and content hierarchy.
+
+2. Desktop View (Larger Screen):
+- Navigation Bar: Displays the brand logo ("SHOP"), full text links (Home, Products, About, Contact), and a shopping cart icon horizontally at the top.
+- Hero Image / Banner: Sits below the navigation bar as a wide banner with a centered "Shop Now" call-to-action (CTA) button.
+- Featured Products: Utilizes a 3-column horizontal grid to take advantage of the wider viewport. Each product card contains an image placeholder, product name, and price.
+- Footer: Displays secondary links and copyright information at the bottom of the page.
+
+3. Mobile View (Smaller Screen):
+- Collapsed Navigation: To accommodate the narrow screen, the navigation links are collapsed into a 3-bar hamburger menu icon in the top-right corner.
+- Hero Image: Scales down proportionally to fit the vertical mobile screen while keeping the "Shop Now" button prominent.
+- Featured Products: Shifts from a 3-column row into a 2-column vertical scrolling grid so product cards remain legible and easy to tap on touchscreens.
+- Footer: Stacked neatly at the bottom of the vertical layout.

@@ -1,0 +1,9 @@
+MẪU NHẬN XÉT ĐÁNH GIÁ CHÉO (PEER REVIEW TEMPLATES)
+
+1. Khi bài làm của bạn học đầy đủ, rõ ràng (10/10 điểm):
+- Tiếng Anh: "Great job on your wireframes! You clearly demonstrated both the mobile view and the larger screen view without relying on colors or fancy fonts. Your layout transition from desktop to mobile is very logical and will work well with CSS Flexbox or Grid. Keep up the great work!"
+- Tiếng Việt: "Bản phác thảo của bạn rất tuyệt! Bạn đã thể hiện rõ ràng cả chế độ xem di động và màn hình lớn mà không bị phụ thuộc vào màu sắc hay phông chữ kiểu cách. Cách bạn chuyển đổi bố cục từ máy tính sang điện thoại rất hợp lý và sẽ rất dễ triển khai bằng CSS Flexbox hoặc Grid."
+
+2. Khi muốn góp ý thêm về kỹ thuật triển khai (Implementation suggestion):
+- Tiếng Anh: "Well done! Both views are clearly sketched and easy to follow. One small suggestion for implementation: since you have several elements in a row on the desktop view, consider using flex-wrap: wrap or CSS Grid media queries so the boxes stack smoothly on smaller tablets without overflowing the screen. Good luck with the coding phase!"
+- Tiếng Việt: "Làm tốt lắm! Cả hai chế độ xem đều được phác thảo rõ ràng và dễ theo dõi. Một gợi ý nhỏ khi lập trình: vì bạn có nhiều phần tử xếp ngang trên màn hình máy tính, hãy cân nhắc dùng flex-wrap: wrap hoặc media queries với CSS Grid để các khung tự động rớt dòng mượt mà trên máy tính bảng nhỏ mà không bị tràn màn hình. Chúc bạn viết code thành công!"
